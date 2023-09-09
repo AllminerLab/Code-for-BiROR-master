@@ -50,3 +50,8 @@ cd ./code
 python main.py --entity_dim 128 --pro_dim 128 --word_dim 32 --hidden_dim 32 --n_hop 4 --lr 0.01 --ls1_weight 1 --ls2_weight 1 --lc1_weight 1 --lc2_weight 1 --lc3_weight 2 --l2_reg 0.
 001 --batch_size 256 --epochs 10 --n_memory 64 --re_get_ripple_set True
 ```
+
+Reference:
+
+Zhe-Rui Yang, Zhen-Yu He, Chang-Dong Wang, Pei-Yuan Lai, De-Zhang Liao, Zhong-Zheng Wang. "A Bi-directional Recommender System for Online
+Recruitment", ICDM 2022
