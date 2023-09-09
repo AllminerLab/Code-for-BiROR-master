@@ -1,0 +1,144 @@
+('220125C0W7G5DFCH', 'cm')	cm_major	化学工程与工艺
+('220125C0W7G5DFCH', 'cm')	cm_keyword	油品精细化利用
+('220125C0W7G5DFCH', 'cm')	cm_keyword	润滑油调合
+('220125C0W7G5DFCH', 'cm')	cm_keyword	乙烯裂解原料评价
+('220125C0W7G5DFCH', 'cm')	cm_type	港澳台地区机构在职科研人员
+('220125C0W7G5DFCH', 'cm')	cm_academic	博士
+('220126B7802WXY5P', 'cm')	cm_major	果树学
+('220126B7802WXY5P', 'cm')	cm_keyword	水肥一体化
+('220126B7802WXY5P', 'cm')	cm_keyword	液体肥料
+('220126B7802WXY5P', 'cm')	cm_keyword	智能控制
+('220126B7802WXY5P', 'cm')	cm_keyword	土壤改良
+('220126B7802WXY5P', 'cm')	cm_keyword	现代农业
+('220126B7802WXY5P', 'cm')	cm_type	国内高校在职科研人员
+('220126B7802WXY5P', 'cm')	cm_academic	博士
+('220210BG7M3NAPPH', 'cm')	cm_major	艺术学院
+('220210BG7M3NAPPH', 'cm')	cm_keyword	时尚传播与推广
+('220210BG7M3NAPPH', 'cm')	cm_keyword	农产品时尚化推广
+('220210BG7M3NAPPH', 'cm')	cm_keyword	创意宣传片策划与制作
+('220210BG7M3NAPPH', 'cm')	cm_type	非高校在职科研人员
+('220210BG7M3NAPPH', 'cm')	cm_academic	硕士
+('220301AG6RH4YKS8', 'cm')	cm_major	建筑技术科学
+('220301AG6RH4YKS8', 'cm')	cm_keyword	半导体照明
+('220301AG6RH4YKS8', 'cm')	cm_keyword	健康照明
+('220301AG6RH4YKS8', 'cm')	cm_keyword	循证研究
+('220301AG6RH4YKS8', 'cm')	cm_keyword	节律调节
+('220301AG6RH4YKS8', 'cm')	cm_keyword	情绪改善
+('220301AG6RH4YKS8', 'cm')	cm_type	国内高校在读博士
+('220301AG6RH4YKS8', 'cm')	cm_academic	博士
+('220221CRZ5SB5GR4', 'cm')	cm_major	生物工程
+('220221CRZ5SB5GR4', 'cm')	cm_keyword	茶叶
+('220221CRZ5SB5GR4', 'cm')	cm_keyword	代谢产物
+('220221CRZ5SB5GR4', 'cm')	cm_keyword	检测
+('220221CRZ5SB5GR4', 'cm')	cm_type	非高校在读博士
+('220221CRZ5SB5GR4', 'cm')	cm_academic	硕士
+('220106CGGKSKTB9P', 'enterprise')	enterprise_property	有限责任公司
+('220106CGGKSKTB9P', 'enterprise')	enterprise_type	科技型中小企业
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	新材料技术研发
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	第一类医疗器械销售
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	第一类医疗器械生产
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	第二类医疗器械销售
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	医用口罩零售
+('220106CGGKSKTB9P', 'enterprise')	enterprise_product	医护人员防护用品零售
+('220127B0RHF1CYRP', 'enterprise')	enterprise_property	民营企业
+('220127B0RHF1CYRP', 'enterprise')	enterprise_type	高新技术企业
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	分割器
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	凸轮
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	机械设备
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	机械配件
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	汽车配件
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	液压配件
+('220127B0RHF1CYRP', 'enterprise')	enterprise_product	机床配件的生产
+('220221B3GB1MSS14', 'enterprise')	enterprise_property	有限责任公司
+('220221B3GB1MSS14', 'enterprise')	enterprise_type	初创科技型企业
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	农业规划咨询
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	农业园区规划
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	产业规划
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	海洋渔业规划
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	农业工程咨询
+('220221B3GB1MSS14', 'enterprise')	enterprise_product	智慧农业
+('220221B5N2X9KTXP', 'enterprise')	enterprise_property	有限责任公司
+('220221B5N2X9KTXP', 'enterprise')	enterprise_type	传统工业企业
+('220221B5N2X9KTXP', 'enterprise')	enterprise_product	热链配送
+('220221B5N2X9KTXP', 'enterprise')	enterprise_product	产品为热食盒饭
+('220221CRZ5SB5GR4', 'enterprise')	enterprise_property	民办非企业
+('220221CRZ5SB5GR4', 'enterprise')	enterprise_type	专业技术机构
+('220221CRZ5SB5GR4', 'enterprise')	enterprise_product	面向卫浴陶瓷行业智能化生产线
+('21123182CT1GGPDP', 'demand')	demand_belong_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220106CGGKSKTB9P', 'enterprise')	enterprise_has_demand	('21123182CT1GGPDP', 'demand')
+('21123182CT1GGPDP', 'demand')	demand_keyword	高纯试剂
+('21123182CT1GGPDP', 'demand')	demand_keyword	高密度聚乙烯
+('21123182CT1GGPDP', 'demand')	demand_keyword	技术挑战
+('21123182CT1GGPDP', 'demand')	demand_keyword	电子试剂
+('21123182CT1GGPDP', 'demand')	demand_field	特种功能材料
+('21123182CT1GGPDP', 'demand')	demand_field	高分子
+('21123182CT1GGPDP', 'demand')	demand_field	复合材料
+('21123182CT1GGPDP', 'demand')	demand_type	产品研发与技术攻关类
+('220111B0F71Y4RWH', 'demand')	demand_belong_enterprise	('220127B0RHF1CYRP', 'enterprise')
+('220127B0RHF1CYRP', 'enterprise')	enterprise_has_demand	('220111B0F71Y4RWH', 'demand')
+('220111B0F71Y4RWH', 'demand')	demand_keyword	护理机器人
+('220111B0F71Y4RWH', 'demand')	demand_keyword	危重症新冠肺炎
+('220111B0F71Y4RWH', 'demand')	demand_field	医疗器械及设备及医学专用软件
+('220111B0F71Y4RWH', 'demand')	demand_type	产品研发与技术攻关类
+('220304AS4K6RCXD4', 'demand')	demand_belong_enterprise	('220221B5N2X9KTXP', 'enterprise')
+('220221B5N2X9KTXP', 'enterprise')	enterprise_has_demand	('220304AS4K6RCXD4', 'demand')
+('220304AS4K6RCXD4', 'demand')	demand_keyword	中医药
+('220304AS4K6RCXD4', 'demand')	demand_keyword	康养
+('220304AS4K6RCXD4', 'demand')	demand_keyword	饮品
+('220304AS4K6RCXD4', 'demand')	demand_keyword	食材辅料
+('220304AS4K6RCXD4', 'demand')	demand_field	中医学
+('220304AS4K6RCXD4', 'demand')	demand_field	中药现代化
+('220304AS4K6RCXD4', 'demand')	demand_field	临床医学-药学
+('220304AS4K6RCXD4', 'demand')	demand_type	产品研发与技术攻关类
+('220304BWPKWT1RYW', 'demand')	demand_belong_enterprise	('220221CRZ5SB5GR4', 'enterprise')
+('220221CRZ5SB5GR4', 'enterprise')	enterprise_has_demand	('220304BWPKWT1RYW', 'demand')
+('220304BWPKWT1RYW', 'demand')	demand_keyword	信息技术
+('220304BWPKWT1RYW', 'demand')	demand_keyword	MES
+('220304BWPKWT1RYW', 'demand')	demand_keyword	建模技术
+('220304BWPKWT1RYW', 'demand')	demand_keyword	远程
+('220304BWPKWT1RYW', 'demand')	demand_field	数据库系统及数据处理
+('220304BWPKWT1RYW', 'demand')	demand_field	软件开发
+('220304BWPKWT1RYW', 'demand')	demand_field	制造业信息化
+('220304BWPKWT1RYW', 'demand')	demand_field	云计算技术
+('220304BWPKWT1RYW', 'demand')	demand_type	共建研发平台类
+('220301BZ2K4C19WH', 'demand')	demand_belong_enterprise	('220304AP0841SY80', 'enterprise')
+('220304AP0841SY80', 'enterprise')	enterprise_has_demand	('220301BZ2K4C19WH', 'demand')
+('220301BZ2K4C19WH', 'demand')	demand_keyword	对虾
+('220301BZ2K4C19WH', 'demand')	demand_keyword	高位池养殖
+('220301BZ2K4C19WH', 'demand')	demand_keyword	水质调控
+('220301BZ2K4C19WH', 'demand')	demand_keyword	尾水净化
+('220301BZ2K4C19WH', 'demand')	demand_field	生物技术
+('220301BZ2K4C19WH', 'demand')	demand_field	资源综合利用及生态环境保护
+('220301BZ2K4C19WH', 'demand')	demand_field	农业生态
+('220301BZ2K4C19WH', 'demand')	demand_type	技术改造与转型升级类
+('220125C0W7G5DFCH', 'cm')	cm_browse_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220125C0W7G5DFCH', 'cm')	cm_browse_demand	('21123182CT1GGPDP', 'demand')
+('220125C0W7G5DFCH', 'cm')	cm_browse_enterprise	('220221B3GB1MSS14', 'enterprise')
+('220125C0W7G5DFCH', 'cm')	cm_browse_demand	('220304AS4K6RCXD4', 'demand')
+('220210BG7M3NAPPH', 'cm')	cm_browse_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220210BG7M3NAPPH', 'cm')	cm_browse_demand	('21123182CT1GGPDP', 'demand')
+('220301AG6RH4YKS8', 'cm')	cm_browse_enterprise	('220221B5N2X9KTXP', 'enterprise')
+('220301AG6RH4YKS8', 'cm')	cm_browse_demand	('220304BWPKWT1RYW', 'demand')
+('220301AG6RH4YKS8', 'cm')	cm_browse_enterprise	('220221CRZ5SB5GR4', 'enterprise')
+('220301AG6RH4YKS8', 'cm')	cm_browse_demand	('220301BZ2K4C19WH', 'demand')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_demand	('21123182CT1GGPDP', 'demand')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_enterprise	('220127B0RHF1CYRP', 'enterprise')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_demand	('220111B0F71Y4RWH', 'demand')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_enterprise	('220221B3GB1MSS14', 'enterprise')
+('220221CRZ5SB5GR4', 'cm')	cm_browse_demand	('220304AS4K6RCXD4', 'demand')
+('220106CGGKSKTB9P', 'enterprise')	enterprise_browse_cm	('220125C0W7G5DFCH', 'cm')
+('220106CGGKSKTB9P', 'enterprise')	enterprise_browse_cm	('220126B7802WXY5P', 'cm')
+('220127B0RHF1CYRP', 'enterprise')	enterprise_browse_cm	('220301AG6RH4YKS8', 'cm')
+('220127B0RHF1CYRP', 'enterprise')	enterprise_browse_cm	('220125C0W7G5DFCH', 'cm')
+('220221B3GB1MSS14', 'enterprise')	enterprise_browse_cm	('220301AG6RH4YKS8', 'cm')
+('220221CRZ5SB5GR4', 'enterprise')	enterprise_browse_cm	('220301AG6RH4YKS8', 'cm')
+('220125C0W7G5DFCH', 'cm')	cm_cooperate_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220106CGGKSKTB9P', 'enterprise')	enterprise_cooperate_cm	('220125C0W7G5DFCH', 'cm')
+('220125C0W7G5DFCH', 'cm')	cm_finish_demand	('21123182CT1GGPDP', 'demand')
+('220301AG6RH4YKS8', 'cm')	cm_cooperate_enterprise	('220221B5N2X9KTXP', 'enterprise')
+('220221B5N2X9KTXP', 'enterprise')	enterprise_cooperate_cm	('220301AG6RH4YKS8', 'cm')
+('220301AG6RH4YKS8', 'cm')	cm_finish_demand	('21123182CT1GGPDP', 'demand')
+('220301AG6RH4YKS8', 'cm')	cm_cooperate_enterprise	('220106CGGKSKTB9P', 'enterprise')
+('220106CGGKSKTB9P', 'enterprise')	enterprise_cooperate_cm	('220301AG6RH4YKS8', 'cm')
+('220301AG6RH4YKS8', 'cm')	cm_finish_demand	('21123182CT1GGPDP', 'demand')
